@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CoffeeOrder</string>
+    <string name="coffee_order_app">Coffee Order App</string>
+    <string name="number_of_coffee">Number of Coffee</string>
+    <string name="quantity_counter">0</string>
+    <string name="add_coffee">Add</string>
+    <string name="remove_coffee">Remove</string>
+    <string name="total_to_pay">Total to Pay</string>
+    <string name="price_counter">0</string>
+    <string name="reset">Reset Order</string>
+</resources>
