@@ -6,6 +6,6 @@
     <string name="add_coffee">Add</string>
     <string name="remove_coffee">Remove</string>
     <string name="total_to_pay">Total to Pay</string>
-    <string name="price_counter">0</string>
+    <string name="price_counter">0$</string>
     <string name="reset">Reset Order</string>
 </resources>

@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
     public void setPriceCounter(int quantity) {
         calculatePrice(quantity);
         mPriceCounter = findViewById(R.id.price_counter);
-        mPriceCounter.setText(Integer.toString(mTotalPrice));
+        mPriceCounter.setText(Integer.toString(mTotalPrice) + "$");
     }
 
     public void resetAll(View view) {
